@@ -28,7 +28,7 @@ Belge silme (delete_one, delete_many) ve koleksiyon silme (drop)
 Aggregate pipeline ile toplu veri işlemleri ve hesaplamalar
 
 Kullanım Senaryoları:
-Futbolcular, kitaplar, öğrenciler, çalışanlar gibi farklı gerçekçi veri kümeleri üzerinden uygulamalar
+Sporcular, kitaplar, öğrenciler, çalışanlar gibi farklı gerçekçi veri kümeleri üzerinden uygulamalar
 
 MongoDB sorgu dilinin Python ile nasıl kullanılacağına dair temel ve gelişmiş örnekler
 
