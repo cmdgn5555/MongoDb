@@ -1,0 +1,35 @@
+MongoDB Python Proje Özeti (PyMongo ile Temel CRUD ve Sorgulama)
+
+Bu proje, Python'un PyMongo kütüphanesi kullanılarak MongoDB üzerinde temel CRUD (Create, Read, Update, Delete) işlemlerini ve çeşitli gelişmiş sorgulama tekniklerini uygulayan örneklerden oluşmaktadır.
+
+İçerikler:
+MongoDB bağlantısı kurulması ve koleksiyon seçimi
+
+Tekli ve çoklu belge ekleme (insert_one, insert_many)
+
+Belge okuma ve listeleme (find, find_one)
+
+Filtreleme ve sorgulama:
+
+Karşılaştırma operatörleri ($gt, $lt, $in, $ne vb.)
+
+Regex ile metin arama
+
+Mantıksal operatörler ($and, $or)
+
+Veri sıralama (sort), sınırlandırma (limit) ve atlama (skip)
+
+Belge güncelleme (update_one, update_many)
+
+Güncellemelerde operatör kullanımı ($set, $inc, $push, $pull)
+
+Belge silme (delete_one, delete_many) ve koleksiyon silme (drop)
+
+Aggregate pipeline ile toplu veri işlemleri ve hesaplamalar
+
+Kullanım Senaryoları:
+Futbolcular, kitaplar, öğrenciler, çalışanlar gibi farklı gerçekçi veri kümeleri üzerinden uygulamalar
+
+MongoDB sorgu dilinin Python ile nasıl kullanılacağına dair temel ve gelişmiş örnekler
+
+Eğitim ve başlangıç seviyesindeki geliştiriciler için pratik rehber
